@@ -1,20 +1,21 @@
-# Discourse Github
+# Discourse GitLab
 
-This plugin combines functionality of deprecated github_badges and discourse-github-linkback plugins.
+This plugin is based off the Discourse Gitlab plugin, and aims to provide similar functionality in GitLab
+as the official plugin.
 
 ### Installation
 
 Follow the [plugin installation guide](https://meta.discourse.org/t/install-a-plugin/19157).
 
-### Github Badges
+### Gitlab Badges
 
-Assign badges to your users based on GitHub contributions.
+Assign badges to your users based on GitLab contributions.
 
 #### How to use:
 
-1. Enable `github badges enabled` in Settings -> Plugins.
+1. Enable `gitlab badges enabled` in Settings -> Plugins.
 
-2. Add URL of the GitHub repo to scan for contributions to the `github badges repo` site setting.
+2. Add URL of the GitLab repo to scan for contributions to the `gitlab badges repo` site setting.
 
 ### Github Linkback
 
